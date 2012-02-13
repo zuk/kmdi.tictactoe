@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TicTacToe!</string>
+    <string name="app_name">TicTacToe</string>
+    <string name="x">X</string>
+    <string name="o">&lt;3</string>
+    <string name="restart">Restart</string>
+
+</resources>
