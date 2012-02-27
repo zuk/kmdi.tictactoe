@@ -4,7 +4,7 @@
     <string name="hello">Hello World, TicTacToe!</string>
     <string name="app_name">TicTacToe</string>
     <string name="x">X</string>
-    <string name="o">&lt;3</string>
+    <string name="o">O</string>
     <string name="restart">Restart</string>
 
 </resources>
